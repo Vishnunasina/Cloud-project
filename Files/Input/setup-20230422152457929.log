@@ -1,0 +1,22 @@
+Starting to install
+Attempting to hold the the lock
+Successfully held the lock
+Found application boot path as 
+Found application boot path as 
+Uninstalling any previous installations for this user.
+Uninstalling completed. And, excluding now.
+Executing process name setup-dsk-stl-$$QAJSA15WCV8eWgVaBRoHDlVTFBMBDVcUXFFXXBZSAk9MXElSfnF9XAlCExFFE1EeXFtXCUUHWwsMSVVVC1AdDEMACQNdUlUAWk8FbzM1Kmx8eX0=.exe
+no special characters
+Application Name Time Champ and setup path https://customer.sites2.timechamp.io/tracker/windows/silent/setup-stl.exe and arguments  and runas True along with waitforexit 0
+Current Setup file name setup-dsk-stl-$$QAJSA15WCV8eWgVaBRoHDlVTFBMBDVcUXFFXXBZSAk9MXElSfnF9XAlCExFFE1EeXFtXCUUHWwsMSVVVC1AdDEMACQNdUlUAWk8FbzM1Kmx8eX0=.exe
+Temp Area decided as C:\Users\DELL UZER\AppData\Local\TempInstall
+Downloads from C:\Users\DELL UZER\AppData\Local\TempInstall\cd282813-d2e9-4ded-9ba6-3a2e364bc9cc
+Downloads folder created successfully at C:\Users\DELL UZER\AppData\Local\TempInstall\cd282813-d2e9-4ded-9ba6-3a2e364bc9cc
+Temp Download Folder C:\Users\DELL UZER\AppData\Local\TempInstall\cd282813-d2e9-4ded-9ba6-3a2e364bc9cc
+Request for downloading the file https://customer.sites2.timechamp.io/tracker/windows/silent/setup-stl.exe and into the C:\Users\DELL UZER\AppData\Local\TempInstall\cd282813-d2e9-4ded-9ba6-3a2e364bc9cc with file name setup-dsk-stl-$$QAJSA15WCV8eWgVaBRoHDlVTFBMBDVcUXFFXXBZSAk9MXElSfnF9XAlCExFFE1EeXFtXCUUHWwsMSVVVC1AdDEMACQNdUlUAWk8FbzM1Kmx8eX0=.exe
+Downloading the installer from https://customer.sites2.timechamp.io/tracker/windows/silent/setup-stl.exe
+Downloading completed. Installing the software..
+Temp Download Folder - Installer path. where it was downloaded to C:\Users\DELL UZER\AppData\Local\TempInstall\cd282813-d2e9-4ded-9ba6-3a2e364bc9cc\setup-dsk-stl-$$QAJSA15WCV8eWgVaBRoHDlVTFBMBDVcUXFFXXBZSAk9MXElSfnF9XAlCExFFE1EeXFtXCUUHWwsMSVVVC1AdDEMACQNdUlUAWk8FbzM1Kmx8eX0=.exe
+Starting to install the application Time Champ.
+Finished waiting for completion of the script.
+Installation complete Time Champ.
